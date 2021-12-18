@@ -2,6 +2,8 @@
 
 This was a full completed SaaS project with Laravel from scratch which I developed about 7 years ago.
 
+<i> -- Since this project is from a very old version, there may be some security issues. Please be careful.</i>
+
 The main aim of this project was to provide Bayesian sentimental analysis as a service to the clients. 
 Clients were able to configure different different bayesian (n-gram models with wizards) domains and could use it on different data sources. 
 The service could be provided over Rest API or by client dashboards.
