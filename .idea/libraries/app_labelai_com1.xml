@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="app.labelai.com1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app.labelai.com.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
