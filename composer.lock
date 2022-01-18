@@ -85,7 +85,7 @@
             },
             "require": {
                 "aws/aws-sdk-php": "~2.2",
-                "laravel/framework": "4.*",
+                "laravel/framework": "5.8.17",
                 "php": ">=5.3.3"
             },
             "require-dev": {
