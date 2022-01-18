@@ -4,7 +4,7 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "laravel/framework": "4.2.6",
+        "laravel/framework": "5.8.17",
         "edvinaskrucas/notification": "2.*",
         "yandex/translate-api": "1.5.x",
         "thujohn/twitter": "dev-master",
